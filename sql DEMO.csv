@@ -1,0 +1,6 @@
+empid,empname,empdesignation,empage,joindate,empsalary
+E4001,Arjun,HR,28,2019-05-19,60000
+E4002,Rhea,"Assistant manager",30,2020-02-01,60000
+E4003,suraj,"Data analyst",25,2021-06-10,50000
+E4004,riyas,"data scientist",28,2019-05-12,65000
+E4005,gaurav,"data engineer",22,2022-04-10,35000
